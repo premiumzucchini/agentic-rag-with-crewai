@@ -57,10 +57,10 @@ Let's create wonders together with the power and simplicity of crewAI.
 
 ## About the Maintainer
 
-This Agenticrag Crew project is currently maintained by Mustaq Sohail Shaik.
+This Agenticrag Crew project is currently maintained by Sanjeev Preetam Karri.
 
-Mustaq is a Software Engineer with 3+ years of experience in architecting and deploying intelligent systems. He specializes in machine learning, data engineering, and scalable software design, leveraging technologies like Python, TensorFlow, and PyTorch.
+ Sanjeev is aData Analyst with 4+ years of experience architecting end-to-end data solutions, developing advanced machine learning models, and orchestrating scalable analytics workflows. Demonstrated success in deploying AI-driven systems using Python, PyTorch, and cloud technologies (AWS, GCP) to derive meaningful insights and accelerate business intelligence. Adept at integrating data engineering, model optimization, and statistical inference to solve complex business challenges.
 
-Feel free to connect or reach out:
-- Email: sohailshaik8255@gmail.com
-- LinkedIn: [Mustaq Sohail Shaik](https://www.linkedin.com/in/mustaq-sohail-shaik-2224482a8/)
+Connect with Sanjeev:
+*   **Email**: karrisanjeevpreetam@gmail.com
+*   **GitHub**: premiumzucchini
